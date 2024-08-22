@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Rina Buoy 👋
+
+Currently, I am working AI researcher, as well as an AI trainer. 
 
 <!--
 **rinabuoy/rinabuoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
